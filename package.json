@@ -1,6 +1,6 @@
 {
     "name": "tableau-jsapi",
-    "version": "2.5.0",
+    "version": "2.5.0.1",
     "description": "Tableau JavaScript API wrapped as NPM module.",
     "repository": {
       "type": "git",
