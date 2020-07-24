@@ -9922,7 +9922,7 @@ var tableau = {};
     
     tableau = global.tableauSoftware;
     
-    tableauSoftware.Promise = tab._PromiseImpl;
+    tableau.Promise = tab._PromiseImpl;
     tab._Deferred = tab._DeferredImpl;
     tab._Collection = tab._CollectionImpl;
     
